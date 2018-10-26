@@ -4,7 +4,7 @@ Modify this file to your hearts content and make your website look awesome!*/
 
 
 body{
-	background-color: #ebebeb;
+	background-color:#171717;
 	padding-top: 80px;
 }
 
@@ -67,6 +67,7 @@ img{
 h1, h2, h3, h4, h5, h6 {
 	font-family:'Montserrat', Sans-Serif;
 	margin-bottom: 20px;
+	color:#fffce8;
 }
 	h1.welcome-special{
 		font-size: 90px;
@@ -87,10 +88,11 @@ p, li, span, a {
 	font-family: 'Lato', Sans-Serif;
 	text-align: justify;
 	font-weight: 300;
+	color:#fff;
 }
 
 	p{
-		color: #494949;
+		color: #fff;
 		line-height: 30px;
 		margin-bottom: 25px;
 	}
@@ -144,7 +146,7 @@ span.img-caption{
 	padding-top: 30px;
 	width: 100%;
 	min-height: 100px;
-	background-color: #989898;
+	background-color: #d1d1d1;
 	border-top: 1px solid #727272;
 }
 
